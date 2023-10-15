@@ -1,2 +1,5 @@
 # Connect-4-AI
-Four in a Row Game with AI opponent
+
+It is a popular bord game also known as Four in a row. I made it using python (pygame library). 
+Having the computer play against us in this game is the best part as it is challenging for us to win. 
+It was my first AI project which i made, as a part of my class 12 CS project.
